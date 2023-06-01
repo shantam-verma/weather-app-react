@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-app-react/static/css/main.a8f03357.css",
+    "main.js": "/weather-app-react/static/js/main.784f1a54.js",
+    "static/media/beautiful-blue-sky.jpg": "/weather-app-react/static/media/beautiful-blue-sky.d5a92c1e58d61c13df13.jpg",
+    "static/media/logo.png": "/weather-app-react/static/media/logo.2f2506ee8a365d0d3e6e.png",
+    "index.html": "/weather-app-react/index.html",
+    "main.a8f03357.css.map": "/weather-app-react/static/css/main.a8f03357.css.map",
+    "main.784f1a54.js.map": "/weather-app-react/static/js/main.784f1a54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f03357.css",
+    "static/js/main.784f1a54.js"
+  ]
+}
